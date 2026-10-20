@@ -1,0 +1,9 @@
+.git/
+.idea/
+*.iml
+.env
+.env.*
+*.log
+docs/
+src/
+README.md
